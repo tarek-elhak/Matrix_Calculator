@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1584039587 source:c:\users\tarek\matrix_calculator\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1584039561 c:\users\tarek\matrix_calculator\include\matrix.h
+
+1584039591 source:c:\users\tarek\matrix_calculator\main.cpp
+	<iostream>
+	"matrix.h"
+	"src\matrix.cpp"
+
+1584039587 c:\users\tarek\matrix_calculator\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
